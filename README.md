@@ -1,5 +1,5 @@
 # 💫 About Me:
-Results-driven Backend Software Engineer with proven expertise in Laravel ecosystem and modern web development practices. Demonstrated success in designing scalable platforms, automating complex data processing workflows, and building comprehensive administrative systems. Strong foundation in software architecture, RESTful API development, and database optimization. Currently contributing to content creator management platforms while maintaining high code quality standards and best practices.
+Results-driven Full-Stack Software Engineer with proven expertise in Laravel, React, and Next.js ecosystems. Demonstrated success in designing scalable platforms, building modern web applications, automating complex data workflows, and creating comprehensive administrative systems. Strong foundation in software architecture, RESTful API development, and database optimization. Currently contributing to full-stack projects integrating Laravel backends with React/Next.js frontends, while maintaining high code quality standards and best practices.
 
 
 ## 🌐 Socials:
